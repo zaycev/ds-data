@@ -5,8 +5,8 @@ Source data (dependecy realtions collections) needed to generate indexes for web
 
 ###Data
 
-* `relations_english.csv.xz` – English dependency store dirrived from Gigaword.
-* `relations_english_gen.csv.xz` – English dependency store dirrived from Gigaword (generalized).
+* `relations_english.csv.xz` – English dependency store derrived from Gigaword.
+* `relations_english_gen.csv.xz` – English dependency store derrived from Gigaword (generalized).
 
 ###Contributors
 * Vova Zaytsev [<zaytsev@usc.edu>](mailto:zaytsev@usc.edu)
