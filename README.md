@@ -3,9 +3,14 @@ Dependency store data
 
 Source data (dependecy realtions collections) needed to generate indexes for web-gui.
 
-###License
+###Data
+
+* `relations_english.csv.xz` – English dependency store dirrived from Gigaword.
+* `relations_english_gen.csv.xz` – English dependency store dirrived from Gigaword (generalized).
 
 ###Contributors
+* Vova Zaytsev [<zaytsev@usc.edu>](mailto:zaytsev@usc.edu)
+* Katya Ovchinnikova [<e.ovchinnikova@gmail.com>](mailto:e.ovchinnikova@gmail.com)
 
 ###TODO
 * Add description.
