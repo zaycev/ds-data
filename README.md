@@ -5,17 +5,20 @@ Source data (dependecy realtions collections) needed to generate indexes for web
 
 ###Data
 
-* `relations_english.csv.xz` – English dependency store derrived from Gigaword.
-* `relations_english_gen.csv.xz` – English dependency store derrived from Gigaword (generalized).
+* `relations_english.tuples.xz` – English dependency store derrived from [English Gigaword](http://catalog.ldc.upenn.edu/LDC2003T05).
+* `relations_english_gen.tuples.xz` – English dependency store derrived from [English Gigaword](http://catalog.ldc.upenn.edu/LDC2003T05) (generalized).
+* `relations_english.tuples.xz` – Russian dependency store derrived from [RuWac](http://corpus.leeds.ac.uk/ruscorpora.html).
+* `relations_english_gen.tuples.xz` – Russian dependency store derrived from [RuWac](http://corpus.leeds.ac.uk/ruscorpora.html) (generalized).
+* `relations_spanish.tuples.xz` – Spanish dependency store derrived from [Spanish Gigaword](http://catalog.ldc.upenn.edu/LDC2011T12).
 
 ###Contributors
-* Vova Zaytsev [<zaytsev@usc.edu>](mailto:zaytsev@usc.edu)
 * Katya Ovchinnikova [<e.ovchinnikova@gmail.com>](mailto:e.ovchinnikova@gmail.com)
+* Vova Zaytsev [<zaytsev@usc.edu>](mailto:zaytsev@usc.edu)
 
 ###TODO
-* Add description.
-* Add Russian and Spanish data.
-* Add instruction of how to index data.
+* Add more description.
+* [Done] Add Russian and Spanish data.
+* Add instructions about how to use and index this data.
 
 ##License
 
