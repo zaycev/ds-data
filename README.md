@@ -1,5 +1,5 @@
-Dependency store data
-=====================
+Propositions store data
+=======================
 
 Source data (dependecy realtions collections) needed to generate indexes for web-gui.
 
